@@ -12,7 +12,8 @@ release's `ATTRIBUTION.md` and `NOTICE`.
 
 ## Where the data is
 
-- Zenodo: DOI to be added (`10.5281/zenodo.XXXXXXX`) once the release is deposited.
+- Zenodo: [10.5281/zenodo.23493197](https://doi.org/10.5281/zenodo.23493197) (PCL v0.1.1; the DOI always resolves to the
+  latest version).
 
 ## Request a takedown
 
